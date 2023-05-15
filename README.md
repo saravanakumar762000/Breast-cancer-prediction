@@ -6,6 +6,7 @@ Breast cancer represents one of the diseases that make a high number of deaths e
 Given the details of cell nuclei taken from breast mass, predicting whether or not a patient has breast cancer using the Ensembling Techniques. Performing necessary exploratory data analysis before building the model and evaluating the model based on performance metrics other than model accuracy.
 
 Scope
+
 ● Analysing the available data and exploring relationships among given variables.
 
 ● Data Pre-processing.
